@@ -14,6 +14,6 @@ label start:
 
     e "Après avoir ajouté une histoire, des images et de la musique, vous pourrez le présenter au monde entier !"
 
-    "test push"
+    "test push 2"
 
     return
