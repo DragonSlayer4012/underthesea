@@ -17,5 +17,6 @@ label start:
     "test push 2"
     "test Atma"
     "test 2"
+    "test dragons"
 
     return
