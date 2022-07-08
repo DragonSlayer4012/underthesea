@@ -14,6 +14,7 @@ label start:
     mc "Vous venez de créer un nouveau jeu Ren'Py."
     show girl happy at right
     mc "Après avoir ajouté une histoire, des images et de la musique, vous pourrez le présenter au monde entier !"
+    scene underthesea01 with dissolve
     show girl inquiete at left
     "test push 2"
     "test Atma"
