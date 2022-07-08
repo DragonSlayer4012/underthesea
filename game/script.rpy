@@ -4,16 +4,17 @@
 # ex: image eileen heureuse = "eileen_heureuse.png"
 
 # Déclarez les personnages utilisés dans le jeu.
-define e = Character('Eileen', color="#c8ffc8")
+define mc = Character('MC', color="#c8ffc8")
 
 
 # Le jeu commence ici
 label start:
-
-    e "Vous venez de créer un nouveau jeu Ren'Py."
-
-    e "Après avoir ajouté une histoire, des images et de la musique, vous pourrez le présenter au monde entier !"
-
+    scene landscape01
+    show girl normal
+    mc "Vous venez de créer un nouveau jeu Ren'Py."
+    show girl happy at right
+    mc "Après avoir ajouté une histoire, des images et de la musique, vous pourrez le présenter au monde entier !"
+    show girl inquiete at left
     "test push 2"
     "test Atma"
     "test dragons"
