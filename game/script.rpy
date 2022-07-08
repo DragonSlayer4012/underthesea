@@ -17,6 +17,7 @@ label start:
     show girl inquiete at left
     "test push 2"
     "test Atma"
+    "test 2"
     "test dragons"
 
     return
