@@ -20,5 +20,6 @@ label start:
     "test Atma"
     "test 2"
     "test dragons"
+    "test du désepoir"
 
     return
